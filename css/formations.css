@@ -1,0 +1,50 @@
+.container-mobile {
+  width: 414px;
+  background-color: #272727;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+	margin: 0px;
+  font-family: 'Noto sans', sans-serif;
+}
+
+.flèche {
+    height : 4%;
+    position: absolute;
+}
+
+.titre p {
+	font-size: 50px;
+    color: white;
+     
+}
+
+.texts p {
+	font-size: 25px;
+    color: white;
+    position: absolute;
+    margin-left: 1em;
+    margin-top: 4.5em;
+}
+
+.texts h1 {
+	font-size: 14px;
+    color: white;
+    position: absolute;
+    margin-left: 1.8em;
+    margin-top: 10.5em;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.stars {
+    height: 8%;
+    position: absolute;
+    margin-top: 10em;
+    margin-left: -13.95em;
+    float: left;
+}

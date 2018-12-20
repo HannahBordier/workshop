@@ -1,0 +1,60 @@
+.container-mobile {
+  width: 414px;
+  background-color: #272727;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+	margin: 0px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.flèche {
+    height : 4%;
+    position: absolute;
+}
+
+.titre p {
+  font-size: 50px;
+    color: white;
+}
+
+.texts p {
+	font-size: 25px;
+    color: white;
+    position: absolute;
+    margin-left: 1em;
+    margin-top: 4em;
+}
+
+.box {
+	background-color: white;
+	border: solid;
+	border-color: #00C896;
+	border-width: 3px;
+    width: 370px;
+    height: 35px;
+    margin-left: 1.4em;
+    margin-top: 8.5em;
+	border-radius: 10px;
+	position: absolute;
+}
+
+.boxvalide {
+	background-color: #00C896;
+    width: 280px;
+    height: 50px;
+    margin-left: 4em;
+    margin-top: 43.7em;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.boxvalide p {
+	color: white;
+    margin-top: 0.3em;
+    margin-left: 4em;
+}

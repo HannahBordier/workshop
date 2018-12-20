@@ -1,0 +1,57 @@
+.container-mobile {
+  width: 414px;
+  background-color: #272727;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+ 
+}
+
+body {
+  margin: 0px;
+  font-family: 'Noto sans', sans-serif;
+  
+}
+
+.title{ 
+
+	color: #EBEBEB;
+  font-family: 'Noto sans', sans-serif;
+  
+}
+
+.flèche {
+    height : 4%;
+    position: absolute;
+}
+
+.titre p {
+  font-size: 30px;
+    color: white;
+     
+}
+
+.menu-container { 
+	display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 414px;
+  background-color: #272727;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+ }
+
+ .icon {
+    width: 100px
+
+ }
+ .menu{
+  border: 1px solid white;
+  color: #EBEBEB;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+
+ }
